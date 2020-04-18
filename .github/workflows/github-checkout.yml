@@ -29,5 +29,3 @@ jobs:
     # Runs a set of commands using the runners shell
     - name: Run ls -al
       run: ls -al
-        echo Add other actions to build,
-        echo test, and deploy your project.
